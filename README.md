@@ -12,10 +12,9 @@ I'm now channelling that analytical mindset into a formal career in data. I am a
 
 - Python for data analysis
 - Tableau / Looker Studio / Power BI
-- Application Programming Interfaces
+- APIs (Application Programming Interfaces)
 
 ## 🏓 Hobbies
 
 - 🧶 Knitting
 - 🌿 Gardening
-- 🔨 Building
