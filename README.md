@@ -11,7 +11,7 @@ I'm now channelling that analytical mindset into a formal career in data. I am a
 ## 🌱 Currently Learning
 
 - Python for data analysis
-- Tableau / Looker Studio / Power BI
+- Tableau 
 - APIs (Application Programming Interfaces)
 
 ## 🏓 Hobbies
