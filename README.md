@@ -1,6 +1,6 @@
 # Hi, I'm Agate Eglite 👋
 
-### Data Analyst — turning raw data into decisions
+### Data Analyst - turning raw data into decisions
 
 Aspiring Data Analyst with 9+ years of experience in retail management, where data was at the heart of every decision I made. At Sainsbury's, I spent six years analysing sales, waste, labour, and loss data to hit store KPIs, investigating discrepancies, and turning numbers into actions that improved performance.
  
