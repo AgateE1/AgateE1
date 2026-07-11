@@ -1,4 +1,4 @@
-# Hi, I'm Agate Eglite 👋
+# Hi, I'm Agate Eglite 
 
 ### Data Analyst - turning raw data into decisions
 
