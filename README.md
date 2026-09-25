@@ -1,7 +1,7 @@
 # Agate Eglite
 
 **Data Analyst - SQL · BigQuery · Python · Looker Studio · Power BI**
-Lithuania · [LinkedIn](https://www.linkedin.com/in/agate-eglite/) · agateeglite@gmail.com
+[LinkedIn](https://www.linkedin.com/in/agate-eglite/) · agateeglite@gmail.com
 
 Nine years in retail management at Sainsbury's, six of them running store performance off
 sales, waste, labour and loss data, investigating discrepancies, finding the cause, and
