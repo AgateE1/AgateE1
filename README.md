@@ -5,7 +5,7 @@ Lithuania · [LinkedIn](https://www.linkedin.com/in/agate-eglite/) · agateeglit
 
 Nine years in retail management at Sainsbury's, six of them running store performance off
 sales, waste, labour and loss data, investigating discrepancies, finding the cause, and
-changing what the store did next. Now doing the same work with SQL and BigQuery instead of
+changing what the store did next. Now doing the same work with SQL and Python instead of
 store reports, after completing the Data Analytics programme at Turing College.
 
 I care most about the question behind the metric: whether a number is worth managing at all,
