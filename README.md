@@ -25,7 +25,6 @@ against `bigquery-public-data` as written.
 
 | Project | Question | Result | Stack |
 |---|---|---|---|
-| [Time to First Purchase](https://github.com/AgateE1/Session-Length-and-Order-Value) | Is time-to-purchase a metric worth managing? | No — it's stable at 19 min regardless of demand, and lower would mean smaller baskets | BigQuery, GA4, Looker Studio, window functions |
 | [Marketing Promotion A/B Testing](https://github.com/AgateE1/A-B-testing-practice-project) | Which of three promotions should a fast-food chain run? | Promotion 1 — ahead of Promotion 2 at p = 0.0013 and highest in every segment | BigQuery, t-tests, power analysis |
 | [Subscription Retention & Churn](https://github.com/AgateE1/Customer-Retention-Analysis) | Did retention really improve after December 2020? | Yes — a 5–8pp uplift holding across all six lifecycle weeks | BigQuery, weekly cohorts |
 | [Customer Lifetime Value & RFM](https://github.com/AgateE1/Customer-Lifetime-Value-Analysis) | What is a user worth, and who should we focus on? | 12-week LTV forecast plus seven actionable RFM segments | BigQuery, cohort forecasting |
