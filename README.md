@@ -6,7 +6,7 @@
 Nine years in retail management at Sainsbury's, six of them running store performance off
 sales, waste, labour and loss data, investigating discrepancies, finding the cause, and
 changing what the store did next. Now doing the same work with SQL and Python instead of
-store reports, after completing the Data Analytics programme at Turing College.
+store reports, after completing the [Data Analytics programme at Turing College](https://github.com/AgateE1/Certefications/blob/b574eff01a0fc56e14be3c56699b067ae25f82b6/certificate_aeglit.pdf).
 
 I care most about the question behind the metric: whether a number is worth managing at all,
 and what it would take to be wrong about it.
